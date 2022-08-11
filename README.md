@@ -6,7 +6,7 @@ turtlebot3_multirobot_navigation is done in ROS noetic and TurtleBot3 robots wit
 # Installation
 $ cd catkin_ws/src
 $ git https://github.com/Sivasankar-Ganesan/turtlebot3_multirobot_navigation
-$ cd 
+$ cd..
 $ catkin_make
 
 
